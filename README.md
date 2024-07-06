@@ -1,3 +1,3 @@
 # myapp
-This is my first repository
-author-Aakash
+This is my first repository.
+Author-Aakash Rathva
